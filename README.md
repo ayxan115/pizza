@@ -4,7 +4,7 @@
 Pizza Project - это веб-приложение для заказа пиццы, разработанное с использованием React и Redux Toolkit. Оно предоставляет пользователям удобный интерфейс для выбора и заказа различных видов пиццы, с возможностью фильтрации и пагинации товаров.
 
 
-![Pizza Project Screenshot](images/pizza-project-screenshot.png](https://github.com/ayxan115/pizza/blob/main/screnShots/Снимок%20экрана%202024-07-01%20в%2013.53.27.png)
+![Pizza Project Screenshot](https://github.com/ayxan115/pizza/blob/main/screnShots/Снимок%20экрана%202024-07-01%20в%2013.53.27.png)
 
 
 ## Технологии
